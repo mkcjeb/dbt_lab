@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    database: analytics-499821
+    schema: stg_lab_01
+    tables:
+      - name: customers
